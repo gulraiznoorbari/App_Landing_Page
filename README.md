@@ -5,7 +5,7 @@
 <br />
 <br />
 
-<h3>For Live Demo <a href="https://gulraiznoorbari.github.io/App-Landing-Page/" target="_blank">click here</h3>
+<h3>For Live Demo <a href="https://gulraiznoorbari.github.io/App_Landing_Page/" target="_blank">click here</h3>
 
 ## Author
 
